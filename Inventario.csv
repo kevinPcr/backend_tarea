@@ -1,0 +1,6 @@
+﻿codigo;restrictiva;ubicacion;descripcion;unidad;tipo;familia;stock_minimo;cantidad_inicial;ingresos;egresos;perdidas;total;observaciones;observacion_perdida
+100;N;A1;Matilda;español;Infantil;Roald Dahl;10;56;2;0;2;56;dañados;Vacio
+101;S;A1;El principito;español;Infantil;Antoine de Saint-Exupry;10;56;2;0;0;58;Vacio;Vacio
+102;N;A1;Don Quijote de la Mancha;ingles;novela;Miguel de Cervantes;2;7;8;6;8;1;Solicitar Material;1
+103;N;A3;Las mil y una noches;arabe;Cuento;Anonimo;10;50;0;0;0;50;Stok a favor;Vacio
+105;N;Z1;El hombre invisible;español;novela;Ralph Elliso;5;20;2;0;0;22;Stok a favor;Vacio
